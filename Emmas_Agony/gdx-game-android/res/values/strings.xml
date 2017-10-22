@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+    <string name="app_name">Emma\'s Agony</string>
+	<string name="hello">Hello World!</string>
+	
+	<string-array name="letter_string_array">
+		<item>Emma,
+			\nYou have grown so much these past 20 years...  </item>
+		<item>I still remember that little blond girl with wavy curls, 
+			leaping and bounding over furniture, scaring your parents half to death.</item>
+		<item>You may be able to fool others, but I know you are in agony.</item>
+		<item>You used to have so much fun your joy would eminate from your smile and flow from your laughter.  </item>
+		<item>... Oh how times have changed...</item>
+		<item>Know this in your agony, you were once happy.  </item>
+		<item>Having your parents taken, living destitute, in exile, not knowing who you really are.. </item>
+		<item>not knowning justice or mercy in your years.</item>
+		<item>Storms can\'t be taimed, but they can be ridden out.  </item>
+		<item>This letter can do little to ease your misery.</item>
+		<item>Know this though, that your family\'s tools lie in the hands of the man who took your father from you.  </item>
+		<item>Whatever justice you might know in this life, will likely come from your own hands.  </item>
+		<item>You\'re family\'s tools are a start... </item>
+		<item>They are held in the kingdom of Mechanant. </item>
+		<item>Seek out a man named Kody</item>
+		<item>Sorry I can\'t offer you anything more...  </item>
+		<item>...hold onto hope in yourself....</item>
+		<item>      hold on...</item>
+	</string-array>
+	
+</resources>
